@@ -1,19 +1,54 @@
 # Hi 👋, I'm SP Pandey
 
-🚀 **B.Tech Student | Artificial Intelligence & Machine Learning Enthusiast**  
-🧠 Turning data into intelligence | Building systems that think, learn, and scale  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=22&duration=3000&pause=800&color=36BCF7&width=900&lines=Machine+Learning+Specialist;Generative+AI+Developer;Agentic+AI+%26+RAG+Developer;Database+Management+%26+Data+Engineering;Proficient+in+Python+%26+C%2B%2B)](https://git.io/typing-svg)
+
+Welcome to my GitHub portfolio! I am a passionate **Artificial Intelligence and Machine Learning practitioner** with a strong foundation in **Data Science and intelligent system development**. I am currently pursuing **B.Tech in Artificial Intelligence & Machine Learning**.
+
+I enjoy building **AI-driven applications that solve real-world problems**, experimenting with modern ML paradigms, contributing to open-source, and continuously learning emerging technologies in the AI ecosystem.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 What I have done:
 
-I’m a **B.Tech student specializing in Artificial Intelligence and Machine Learning**, driven by curiosity and a strong bias toward execution. I enjoy working at the intersection of **data, algorithms, and real-world impact**.
+- **Machine Learning Applications**: Built and experimented with multiple machine learning projects covering supervised and unsupervised learning, model evaluation, and performance optimization.
 
-My core strength lies in **foundational ML concepts**, hands-on experimentation, and building end-to-end AI solutions — from raw data to deployable applications. I believe AI is not just about models, but about **systems, pipelines, and decisions at scale**.
+- **Natural Language Processing (NLP)**: Developed NLP-based applications involving text preprocessing, feature extraction, and language understanding tasks.
 
-💡 *Currently focused on next-gen AI: Generative AI, RAG pipelines, and Agentic AI systems.*
+- **Data Science Projects**: Worked on end-to-end data science workflows including data collection, cleaning, EDA, feature engineering, and insights generation.
+
+- **Data Analysis & Visualization**: Performed in-depth data analysis using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to derive meaningful patterns and trends.
+
+- **Database Management**: Hands-on experience with database design and management using SQL-based systems for structured data storage and retrieval.
+
+- **AI App Development**: Created interactive AI applications and dashboards using **Streamlit** and **Gradio** to showcase models and results.
 
 ---
+
+## 🌱 What I am doing:
+
+- **Building Agentic AI Applications**: Actively working on **Agentic AI systems** involving multi-agent architectures and multi-model workflows.
+
+- **Exploring RAG Pipelines**: Developing Retrieval-Augmented Generation (RAG) systems that combine LLMs with vector databases for contextual intelligence.
+
+- **Advancing Generative AI Skills**: Experimenting with modern generative models, prompt engineering, and LLM orchestration frameworks.
+
+- **Hands-on Project Development**: Continuously building and refining AI/ML projects to strengthen system design and deployment skills.
+
+---
+
+## 🚀 What I will do:
+
+- Design and deploy **scalable AI systems** that integrate ML, GenAI, and Agentic AI concepts.
+- Build real-world applications using **multi-agent and autonomous AI workflows**.
+- Deepen expertise in **production-grade ML and GenAI architectures**.
+- Contribute to open-source AI projects and collaborate with the AI community.
+
+---
+
+
+
+
+
 
 ## 🧠 Tech Stack & Core Competencies
 
@@ -85,7 +120,7 @@ My core strength lies in **foundational ML concepts**, hands-on experimentation,
 🏅 **IBM Data Science Specialization**  
   📜 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WINFCEXBNW2T)
 
-- 🏅 **IBM Agentic AI & RAG Specialization**  
+🏅 **IBM Agentic AI & RAG Specialization**  
   📜 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YH3XR720WBTP)
 ---
 
