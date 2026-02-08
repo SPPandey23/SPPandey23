@@ -119,9 +119,9 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 
 🏅 **IBM Data Science Specialization**  
   📜 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/WINFCEXBNW2T)
-
 🏅 **IBM Agentic AI & RAG Specialization**  
   📜 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/YH3XR720WBTP)
+  
 ---
 
 ## 📈 What I’m Building Towards
