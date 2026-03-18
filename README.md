@@ -1,4 +1,4 @@
-# Hi 👋, I'm SP Pandey
+# Hi, I'm SP Pandey
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=22&duration=3000&pause=800&color=36BCF7&width=900&lines=Machine+Learning+Specialist;Generative+AI+Developer;Agentic+AI+%26+RAG+Developer;Database+Management+%26+Data+Engineering;Proficient+in+Python+%26+C%2B%2B)](https://git.io/typing-svg)
 
@@ -8,23 +8,17 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 
 ---
 
-## 👨‍💻 What I have done:
+## What I have done:
 
 - **Machine Learning Applications**: Built and experimented with multiple machine learning projects covering supervised and unsupervised learning, model evaluation, and performance optimization.
-
 - **Natural Language Processing (NLP)**: Developed NLP-based applications involving text preprocessing, feature extraction, and language understanding tasks.
-
 - **Data Science Projects**: Worked on end-to-end data science workflows including data collection, cleaning, EDA, feature engineering, and insights generation.
-
 - **Data Analysis & Visualization**: Performed in-depth data analysis using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to derive meaningful patterns and trends.
-
 - **Database Management**: Hands-on experience with database design and management using SQL-based systems for structured data storage and retrieval.
-
 - **AI App Development**: Created interactive AI applications and dashboards using **Streamlit** and **Gradio** to showcase models and results.
-
 ---
 
-## 🌱 What I am doing:
+##  What I am doing:
 
 - **Building Agentic AI Applications**: Actively working on **Agentic AI systems** involving multi-agent architectures and multi-model workflows.
 
@@ -36,7 +30,7 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 
 ---
 
-## 🚀 What I will do:
+##  What I will do:
 
 - Design and deploy **scalable AI systems** that integrate ML, GenAI, and Agentic AI concepts.
 - Build real-world applications using **multi-agent and autonomous AI workflows**.
@@ -50,9 +44,9 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 
 
 
-## 🧠 Tech Stack & Core Competencies
+##  Tech Stack & Core Competencies
 
-### 🔹 AI / ML Foundations
+###  AI / ML Foundations
 - Machine Learning (Supervised & Unsupervised)
 - Exploratory Data Analysis (EDA)
 - Data Science & Statistical Analysis
@@ -61,27 +55,27 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 - Generative AI
 - Agentic AI Systems
 
-### 🔹 Data & Analytics
+### Data & Analytics
 - Database Management Systems (DBMS)
 - Data Analysis
 - Data Visualization
 - Feature Engineering
 - Model Evaluation & Optimization
 
-### 🔹 Development & Frameworks
+###  Development & Frameworks
 - Gradio (AI App Prototyping)
 - Streamlit (Interactive Dashboards)
 
 ---
 
-## 🛠️ Skills: Languages & Technologies
+## Skills: Languages & Technologies
 
-### 💻 Programming Languages
+###  Programming Languages
 - Python 🐍
 - C++ ⚙️
 - SQL
 
-### 📚 Libraries & Tools
+###  Libraries & Tools
 - NumPy
 - Pandas
 - Matplotlib
@@ -92,7 +86,7 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 - Hugging Face
 - FAISS / Vector Databases
 
-### ☁️ Platforms & Concepts
+###  Platforms & Concepts
 - Git & GitHub
 - APIs & Model Deployment
 - RAG Architectures
@@ -101,7 +95,7 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 
 ---
 
-## 📂 Projects
+##  Projects
 
 🚧 *Projects section is actively evolving — updates coming soon.*
 
@@ -114,7 +108,7 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 
 🏅 **IBM Data Science Specialization**  
@@ -125,7 +119,7 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
   
 ---
 
-## 📈 What I’m Building Towards
+##  What I’m Building Towards
 
 - Designing **scalable AI systems**, not just models  
 - Leveraging **Generative AI for automation & reasoning**
@@ -134,12 +128,12 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 If you're into **AI, ML, Data, or building intelligent systems**, let’s collaborate and create something impactful.
 
-📫 *Open to learning, collaboration, and innovation.*
+ *Open to learning, collaboration, and innovation.*
 
 ---
 
-⭐ *If you like what you see, consider following — more AI magic coming soon.*
+ *If you like what you see, consider following — more AI magic coming soon.*
