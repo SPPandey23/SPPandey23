@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub logo"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="140" alt="GitHub logo"/>
 
 # Soorya Prakash Pandey
 
@@ -27,8 +26,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sppandey23&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sppandey23&theme=dark&hide_border=true" width="48%" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sppandey23&theme=dark&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
