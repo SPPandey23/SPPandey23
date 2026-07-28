@@ -100,6 +100,7 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 - Data Analytics Dashboards
 
 ---
+
 ##  Certifications
 
 
@@ -118,6 +119,7 @@ I enjoy building **AI-driven applications that solve real-world problems**, expe
 - Bridging **theory with production-ready AI**
 
 ---
+
 ##  Let’s Connect
 
 If you're into **AI, ML, Data, or building intelligent systems**, let’s collaborate and create something impactful.
