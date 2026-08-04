@@ -22,13 +22,19 @@
   <a href="https://leetcode.com/u/PandeySP23/"><img src="https://img.shields.io/badge/-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
+
 ---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sppandey23&theme=dark&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sppandey23&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sppandey23&theme=dark&hide_border=true" width="48%" alt="GitHub streak"/>
+<br/>
+<img src="https://profile-counter.glitch.me/sppandey23/count.svg" alt="Profile views"/>
 
 </div>
+
+
 
 ---
 
