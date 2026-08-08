@@ -4,7 +4,7 @@
 # Soorya Prakash Pandey
 
 ### Agentic AI Engineer | AI/ML Engineer
-<img src="https://komarev.com/ghpvc/?username=sppandey23&label=Profile%20Views&color=0e75b6&style=flat" />
+[//]: # (<img src="https://komarev.com/ghpvc/?username=sppandey23&label=Profile%20Views&color=0e75b6&style=flat" />)
 </div>
 
 ## About
